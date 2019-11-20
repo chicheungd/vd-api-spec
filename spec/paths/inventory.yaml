@@ -1,8 +1,8 @@
 post:
   tags:
-    - Echo
-  summary: Echo test change
-  description: Receive the exact message you've sent
+    - Inventory
+  summary: Inventory API
+  description: Returns marketing information about inventory for sale.
   operationId: echo
   security:
     - api_key: []

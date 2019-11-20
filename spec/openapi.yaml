@@ -55,6 +55,8 @@ externalDocs:
 tags:
   - name: Echo
     description: Example echo operations
+  - name: Inventory
+    description: Inventory information
   - name: User
     description: Operations about user
 servers:
